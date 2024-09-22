@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RobotF24</string>
+    <string name="begin_game_mssg">Begin the Game!</string>
+    <string name="red_robot_mssg">Red Robot\'s Turn </string>
+    <string name="white_robot_mssg">White Robot\'s Turn </string>
+    <string name="yellow_robot_mssg">Yellow Robot\'s Turn </string>
+</resources>
